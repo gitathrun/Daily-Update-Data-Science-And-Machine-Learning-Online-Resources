@@ -21,6 +21,7 @@ Online resource list for daily update of DS and ML knowledge
 - [Towards Data Science](https://towardsdatascience.com/)
 - [雷锋网](https://www.leiphone.com/)
 - [机器之心](https://jiqizhixin.com)
+- [Google SeedBank](http://tools.google.com/seedbank/)
 
 ### Natural Language Process
 - [arXiv.org update page for Computer Science.Computation and Language](https://arxiv.org/list/cs.CL/recent)
