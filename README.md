@@ -19,6 +19,7 @@ Online resource list for daily update of DS and ML knowledge
 - [DeepMind Blog](https://deepmind.com/blog/)
 - [Machine Learning Mastery](https://machinelearningmastery.com/)
 - [Towards Data Science](https://towardsdatascience.com/)
+- [Distill Pub](https://distill.pub)
 - [雷锋网](https://www.leiphone.com/)
 - [机器之心](https://jiqizhixin.com)
 - [Google SeedBank](http://tools.google.com/seedbank/)
